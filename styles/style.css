@@ -61,6 +61,12 @@ html {
   scroll-behavior: smooth;
 }
 
+::selection{
+  color: rgb(218, 185, 40);
+}
+body:focus {
+  outline: none;
+}
 /* =======================    Hero  =======================  */
 
 #Hero-section {
