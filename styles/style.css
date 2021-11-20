@@ -821,7 +821,7 @@ footer h5 {
     padding: 1rem;
   }
   .slides-text p {
-    font-size: 0.55rem;
+    font-size: 0.95rem;
     margin: 1rem 0rem;
   }
   .slides-text {
@@ -867,7 +867,7 @@ footer h5 {
   }
 
   #brand-section {
-    height: 120vh;
+    height: 140vh;
     width: 100vw;
   }
 
