@@ -1,0 +1,39 @@
+.btn {
+  outline: none;
+  border: none;
+  color: var(--light);
+  text-transform: uppercase;
+  padding: 0.85rem 2.5rem;
+  cursor: pointer;
+  transition: 0.5s ease;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background: var(--theme);
+  margin-top: 3rem;
+  letter-spacing: 0.05rem;
+  border: 2px  solid transparent;
+}
+
+.btn-primary:hover {
+  background:#020202;
+  letter-spacing: 0.10rem;
+  border: 2px  solid var(--theme);
+}
+
+.btn-secondary {
+  background: var(--dark);
+  margin-top: 3rem;
+  border: 2px  solid transparent; 
+   letter-spacing: 0.05rem;
+
+}
+.btn-secondary:hover{
+  background: var(--theme);
+  margin-top: 3rem;
+  letter-spacing: 0.05rem;
+  letter-spacing: 0.10rem;
+  border: 2px  solid var(--dark);
+  color: var(--dark)
+}
