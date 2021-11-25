@@ -207,7 +207,6 @@ i{
 }
 .card {
   padding: 2rem;
-  cursor: pointer;
   border: 2px solid rgba(208, 198, 198, 0.17);
   transition: 0.5s ease;
   display: flex;
